@@ -1,3 +1,10 @@
+SMODS.Atlas({
+    key = "modicon",
+    path = "icon.png",
+    px = 34,
+    py = 34
+})
+
 AltTexture({
     key = 'big_naturals_jonklers',
     set = 'Joker',
